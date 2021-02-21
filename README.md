@@ -1,6 +1,6 @@
-# my-sketch
+# Pondwave
 
-A Quil sketch designed to ... well, that part is up to you.
+![alt text](https://github.com/tqsunset/pondwave/blob/master/resources/output.gif?raw=true)
 
 ## Usage
 
